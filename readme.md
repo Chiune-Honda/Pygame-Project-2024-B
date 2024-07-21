@@ -25,4 +25,4 @@ Use `python main.py` to run the game.
 
 ### Attribution
 
-- line 393-401 (Start Screen) was created with assistance from OpenAI's ChatGPT and Taylor Sayson
+- line 393-401 (Start Screen) was created with assistance from OpenAI's ChatGPT
