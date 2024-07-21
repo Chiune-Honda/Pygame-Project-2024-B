@@ -4,7 +4,7 @@ Programming Level 1/2
 
 ## Description
 
-A fun hokcey game that has acceleration, deceleration, and energy transfering princples.
+A fun hockey game that has acceleration, deceleration, and energy transfering principles.
 
 ## How to run
 
